@@ -31,24 +31,17 @@
 
 - **Algorithms Used**: Random Forest Classifier & Logistic Regression
 - **Best Model Chosen**: Random Forest (based on higher accuracy)
-- **Accuracy**: ~**89%** on the test set
+- **Accuracy**: ~**83%** on the test set
 - **Error Metrics**:
-  - MAE: *~0.15*
-  - RMSE: *~0.23*
+  - MAE: *~0.3497*
+  - MSE: *~0.1682*
+  - RMSE: *~0.4102*
 
 ---
 
 ## 🧪 Sample Output
 
-### 🔹 Match  
-`Chennai Super Kings 🆚 Mumbai Indians`  
-**Venue**: Wankhede Stadium, Mumbai  
-**Toss Winner**: Chennai Super Kings (elected to Bat)  
-**Match Type**: League
 
-### 🔹 Predicted Win Probabilities  
-- **Chennai Super Kings**: 43.5%  
-- **Mumbai Indians**: 56.5%  
 
 🏆 **Predicted Winner**: Mumbai Indians
 

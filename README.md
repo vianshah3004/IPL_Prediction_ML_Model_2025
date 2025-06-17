@@ -40,9 +40,9 @@
 
 ## 🧪 Sample Output
 
+![Image](https://github.com/user-attachments/assets/83120e25-fb64-4ded-8e3f-66c92a41db5c)
 
-
-🏆 **Predicted Winner**: Mumbai Indians
+---
 
 ### 🔹 Top Influencing Factors
 - Team Batting Strength  

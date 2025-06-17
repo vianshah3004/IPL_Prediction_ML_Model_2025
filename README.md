@@ -80,9 +80,9 @@
    pip install -r requirements.txt
    ```
 4. Ensure the following CSV files are present in the project directory:
-    i) matches.csv
-   ii) cricket_data_2025.csv
-  iii) ipl_2025_auction_players.csv
+    - matches.csv
+    - cricket_data_2025.csv
+    - ipl_2025_auction_players.csv
 
 5. Run the model generation script to create the trained model file (ipl_match_winner_model.pkl):
    ```bash
@@ -98,4 +98,10 @@
    ```bash
    streamlit run ipl_match_winner_app.py
    ```
+
+---
+
+## 🙌 Acknowledgements
+Grateful for the collaboration and teamwork with Shloka Shetiya and Tirrth Mistry — this project wouldn't have been possible without them! 
+
 

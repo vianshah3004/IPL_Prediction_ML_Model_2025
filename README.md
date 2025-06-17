@@ -31,7 +31,6 @@
 
 - **Algorithms Used**: Random Forest Classifier & Logistic Regression
 - **Best Model Chosen**: Random Forest (based on higher accuracy)
-- **Accuracy**: ~**83%** on the test set
 - **Error Metrics**:
   - MAE: *~0.3497*
   - MSE: *~0.1682*
